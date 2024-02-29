@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="team.xsl"?>
+<team>
+
+<player>
+<name>Mike Ross</name>
+<age>25</age>
+<position>Forward</position>
+<goals>11</goals>
+<saves>0</saves>
+<interceptions>40</interceptions>
+</player>
+
+
+<player>
+<name>Sammy Kris</name>
+<age>20</age>
+<position>Defender</position>
+<goals>1</goals>
+<saves>0</saves>
+<interceptions>80</interceptions>
+</player>
+
+<player>
+<name>Mba Williams</name>
+<age>28</age>
+<position>keeper</position>
+<goals>0</goals>
+<saves>32</saves>
+<interceptions>10</interceptions>
+</player>
+
+<player>
+<name>Mika Modric</name>
+<age>32</age>
+<position>Defender</position>
+<goals>1</goals>
+<saves>0</saves>
+<interceptions>120</interceptions>
+</player>
+
+<player>
+<name>Marlon Alcaraz</name>
+<age>19</age>
+<position>midfielder</position>
+<goals>7</goals>
+<saves>0</saves>
+<interceptions>80</interceptions>
+</player>
+
+<player>
+<name>Khaled Jabeer</name>
+<age>30</age>
+<position>Midfielder</position>
+<goals>6</goals>
+<saves>0</saves>
+<interceptions>29</interceptions>
+</player>
+
+</team>

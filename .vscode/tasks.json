@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "xslt-js: Saxon-JS Transform (New)",
+			"command": "npx",
+            "args" :[
+                "xslt3",
+                "-s:team.xml",
+                "-xsl:team.xsl",
+                "-o:output.html"
+            ],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [
+				"$saxon-xslt-js"
+			]
+		}
+	]
+}
